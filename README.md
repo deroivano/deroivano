@@ -22,18 +22,14 @@ Infra        Linux • Docker • PostgreSQL • Self-Hosted VPS
 - 🔭 Building full-stack apps with **TypeScript** and **React**
 - 🐧 Daily driving **Arch Linux** (CachyOS + Cosmic DE)
 - 🌐 Self-hosting projects on my own VPS with Docker
-- 📫 Reach me at **[deroivano.web.id](https://deroivano.web.id)** — **[mail@deroivano.web.id](mailto:mail@deroivano.web.id)**
+- 📫 Reach me at **[deroivano.web.id](https://deroivano.web.id)**
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deroivano&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deroivano&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deroivano&theme=github-dark-blue&hide_border=true&background=0d1117&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b" alt="GitHub Streak" />
 </p>
 
 ---
