@@ -26,14 +26,6 @@ Infra        Linux • Docker • PostgreSQL • Self-Hosted VPS
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deroivano&theme=github-dark-blue&hide_border=true&background=0d1117&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🔗 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-deroivano.web.id-f59e0b?style=flat-square&logo=firefox&logoColor=white)](https://deroivano.web.id)
