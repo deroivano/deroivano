@@ -22,7 +22,7 @@ Infra        Linux • Docker • PostgreSQL • Self-Hosted VPS
 - 🔭 Building full-stack apps with **TypeScript** and **React**
 - 🐧 Daily driving **Arch Linux** (CachyOS + Cosmic DE)
 - 🌐 Self-hosting projects on my own VPS with Docker
-- 📫 Reach me at **[deroivano.web.id](https://deroivano.web.id)**
+- 📫 Reach me at **[deroivano.web.id](https://deroivano.web.id)** — **[mail@deroivano.web.id](mailto:mail@deroivano.web.id)**
 
 ---
 
