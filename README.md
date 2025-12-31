@@ -6,7 +6,7 @@ I build production-ready applications across web, mobile, and desktop — and se
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 ```text
 Languages    TypeScript • JavaScript • Kotlin • Java • PHP
@@ -17,12 +17,12 @@ Infra        Linux • Docker • PostgreSQL • Self-Hosted VPS
 
 ---
 
-### 🚀 What I'm Up To
+### What I'm Up To
 
-- 🔭 Building full-stack apps with **TypeScript** and **React**
-- 🐧 Daily driving **Arch Linux** (CachyOS + Cosmic DE)
-- 🌐 Self-hosting projects on my own VPS with Docker
-- 📫 Reach me at **[deroivano.web.id](https://deroivano.web.id)**
+- Building full-stack apps with **TypeScript** and **React**
+- Daily driving **Arch Linux** (CachyOS + Cosmic DE)
+- Self-hosting projects on my own VPS with Docker
+- Reach me at **[deroivano.web.id](https://deroivano.web.id)**
 
 ---
 
