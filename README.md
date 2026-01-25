@@ -20,7 +20,6 @@ Infra        Linux • Docker • PostgreSQL • Self-Hosted VPS
 ### What I'm Up To
 
 - Building full-stack apps with **TypeScript** and **React**
-- Daily driving **Arch Linux** (CachyOS + Niri)
 - Self-hosting projects on my own VPS with Docker
 - Reach me at **[deroivano.web.id](https://deroivano.web.id)**
 
