@@ -12,7 +12,7 @@ I build production-ready applications across web, mobile, and desktop — and se
 Languages    TypeScript • JavaScript • Kotlin • Java • PHP
 Frontend     React • Next.js • TanStack • Tailwind CSS • Framer Motion
 Backend      Hono • Node.js • Bun • Laravel
-Infra        Linux • Docker • PostgreSQL • Self-Hosted VPS
+Infra        Linux • Docker • PostgreSQL
 ```
 
 ---
