@@ -2,21 +2,6 @@
 
 **Full-Stack Developer & Linux Enthusiast** from West Java, Indonesia.
 
-I build production-ready applications across web, mobile, and desktop — and self-host everything on my own Linux VPS.
-
----
-
-### Tech Stack
-
-```text
-Languages    TypeScript • JavaScript • Kotlin • Java • PHP
-Frontend     React • Next.js • TanStack • Tailwind CSS • Framer Motion
-Backend      Hono • Node.js • Bun • Laravel
-Infra        Linux • Docker • PostgreSQL
-```
-
----
-
 ### What I'm Up To
 
 - Building full-stack apps with **TypeScript** and **React**
