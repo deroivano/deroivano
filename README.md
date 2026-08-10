@@ -21,13 +21,13 @@ Infra        Linux • Docker • PostgreSQL
 
 - Building full-stack apps with **TypeScript** and **React**
 - Self-hosting projects on my own VPS with Docker
-- Reach me at **[deroivano.web.id](https://deroivano.com)**
+- Reach me at **[deroivano.com](https://deroivano.com)**
 
 ---
 
 ### 🔗 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-deroivano.web.id-f59e0b?style=flat-square&logo=firefox&logoColor=white)](https://deroivano.web.id)
+[![Portfolio](https://img.shields.io/badge/Portfolio-deroivano.web.id-f59e0b?style=flat-square&logo=firefox&logoColor=white)](https://deroivano.com)
 [![Email](https://img.shields.io/badge/Email-mail@deroivano.web.id-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@deroivano.web.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-deroivano-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deroivano)
 
