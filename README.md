@@ -2,14 +2,6 @@
 
 **Full-Stack Developer & Linux Enthusiast** from West Java, Indonesia.
 
-### What I'm Up To
-
-- Building full-stack apps with **TypeScript** and **React**
-- Self-hosting projects on my own VPS with Docker
-- Reach me at **[deroivano.com](https://deroivano.com)**
-
----
-
 ### 🔗 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-deroivano.web.id-f59e0b?style=flat-square&logo=firefox&logoColor=white)](https://deroivano.com)
