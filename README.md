@@ -4,7 +4,7 @@ A **Full-Stack Developer & Linux Enthusiast** from West Java, Indonesia.
 
 ### Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-deroivano.id-f59e0b?style=flat-square&logo=firefox&logoColor=white)](https://deroivano.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-deroivano.com-f59e0b?style=flat-square&logo=firefox&logoColor=white)](https://deroivano.com)
 [![Email](https://img.shields.io/badge/Email-mail@deroivano.web.id-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@deroivano.web.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-deroivano-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deroivano)
 
